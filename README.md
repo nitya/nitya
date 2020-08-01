@@ -9,9 +9,11 @@ Five things to know about me:
 - 👩🏽‍🎨 I am a sketchnoter and aspiring creative technologist: [WIP: SketchTheDocs](https://sketchthedocs.dev)
 - 🤗 I believe in [continuous learning](https://dev.to/nitya/i-m-a-lifelong-beginner-are-you-2ac6) and [standing up for the right things](https://twitter.com/nitya/status/1283389744014073856)
 
-In 2018 I was also recognized as a _[Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-nitya_narasimhan)_ with a focus on Flutter, Dart and Web Technologies.
+In 2018 I was recognized as a _[Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-nitya_narasimhan)_. 
+Focus: Flutter, Dart and Web Technologies.
 
-Since 2019, I've been part of the _[Microsoft Developer Relations Team](https://developer.microsoft.com/en-us/advocates/)_, managing Regional Programs for North America (US & Canada) with a focus on students, startups, and professional developers.
+In 2019, I joined the _[Microsoft Developer Relations Team](https://developer.microsoft.com/en-us/advocates/)_, managing Regional Programs for North America.
+Focus: Build & empower students, startups, and professional developer ecosystems across US and Canada.
 
 Prior to joining Microsoft, I held other roles. I continue to be heavily invested in communities.
  - a VP Of Engineering (startup)
