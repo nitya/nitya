@@ -9,12 +9,12 @@ Five things to know about me:
 - 👩🏽‍🎨 I am a sketchnoter and aspiring creative technologist: [WIP: SketchTheDocs](https://sketchthedocs.dev)
 - 🤗 I believe in continuous learning, standing up for the right things, and giving back to community
 
-I'm currently a member of the Microsoft Developer Relations Team, managing North American Regional Programs.
+I work in the [Microsoft Developer Relations Team](https://developer.microsoft.com/en-us/advocates/)_, managing Regional Programs for North America (US & Canada) with a focus on students, startups, and professional developers.
 
-Prior to this, I've been:
+Prior to joining Microsoft, I held other roles. I continue to be heavily invested in communities.
  - a VP Of Engineering (startup)
  - an Adjunct Faculty member (academia)
- - a Community and Conference Organizer (GDG)
+ - a Community and Conference Organizer (Google Developer Groups, MeteorJS)
  - an Indepedent Developer (mobile, web, machine learning)
  - a Distinguished Member of Technical Staff (industry)
  - a Graduate Student Research/Teaching Assistant
