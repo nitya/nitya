@@ -3,11 +3,11 @@
 Hello! I'm Nitya. And "Vanakkam" is how you say Hello in Tamil, my mother tongue and one of the ancient languages of India.
 
 Five things to know about me:
-- 👩🏽‍🎓 I'm a PhD in Computer Engineering
-- 👩🏽‍💻 I've worked in tech for 20+ years building systems, software and communities.
-- 🙇🏽‍♂️ I'm the proud and invested parent of a curious 11yo (in 2020)
+- 👩🏽‍🎓 I'm a PhD in Computer Engineering (Focus: distributed systems, survivability)
+- 👩🏽‍💻 I've spent 20+ years in tech building systems, software and communities (Focus: ubiquitous computing, mobile & web development, cloud & AI)
+- 🙇🏽‍♂️ I'm the proud and invested parent of [a curious 11yo](https://twitter.com/nitya/status/1284845105074102272)
 - 👩🏽‍🎨 I am a sketchnoter and aspiring creative technologist: [WIP: SketchTheDocs](https://sketchthedocs.dev)
-- 🤗 I believe in continuous learning, standing up for the right things, and giving back to community
+- 🤗 I believe in [continuous learning](https://dev.to/nitya/i-m-a-lifelong-beginner-are-you-2ac6) and [standing up for the right things](https://twitter.com/nitya/status/1283389744014073856)
 
 In 2018 I was also recognized as a _[Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-nitya_narasimhan)_ with a focus on Flutter, Dart and Web Technologies.
 
