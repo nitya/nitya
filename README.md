@@ -11,6 +11,7 @@ It's hard to distill decades in tech into a few bullet points, but here goes.
 
 I've worked on software and systems, in research & development roles, across industry, academia and startups.
 My technology interests span mobile & web development, distributed systems, ubiquitous computing, cloud & AI.
+
 I'm currently focused on technology and community advocacy, on the Developer Relations team at Microsoft.
 In my spare time, I am passionate about visual storytelling, community building, and exploring my culture.
 
