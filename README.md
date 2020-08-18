@@ -7,6 +7,7 @@ It's hard to distill decades in tech into a few bullet points, but here goes.
  * I'm a PhD in Computer Engineering. My thesis focused on middleware for survivable distributed Java systems.
  * I'm a Parent. I believe in lifelong learning and instilling a sense of curiosity and creativity in kids.
  * I'm a Polyglot. At various times I have worked in: C, C++, Java, JavaScript, Dart, Python, and even Pascal.
+ * I'm a Public Speaker, an Innovator, an Educator, and a Community & Conference Organizer.
 
 I've worked on software and systems, in research & development roles, across industry, academia and startups.
 My technology interests span mobile & web development, distributed systems, ubiquitous computing, cloud & AI.
