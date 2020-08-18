@@ -13,7 +13,7 @@ I've worked on software and systems, in research & development roles, across ind
 My technology interests span mobile & web development, distributed systems, ubiquitous computing, cloud & AI.
 
 I'm currently focused on technology and community advocacy, on the Developer Relations team at Microsoft.
-In my spare time, I am passionate about visual storytelling, community building, and exploring my culture.
+In my spare time, I am passionate about visual storytelling, community building, exploring my culture and advocating for self-care.
 
 **My mission statement:** 
 > I want to make _complex_ concepts understandable to _diverse_ audiences in ways that drive _actionable_ impact.
