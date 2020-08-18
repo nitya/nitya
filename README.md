@@ -15,7 +15,7 @@ My technology interests span mobile & web development, distributed systems, ubiq
 I'm currently focused on technology and community advocacy, on the Developer Relations team at Microsoft.
 In my spare time, I am passionate about visual storytelling, community building, and exploring my culture.
 
-> **My mission statement:** 
+**My mission statement:** 
 > I want to make _complex_ concepts understandable to _diverse_ audiences in ways that drive _actionable_ impact.
 
 You can find me online:
