@@ -8,7 +8,7 @@ I've been in tech for 20+ years focused on systems & software research, developm
  * **I'm a PhD in Computer Engineering.** My thesis focused on middleware for survivable distributed Java systems.
  * **I'm a Parent.** I believe in lifelong learning and instilling a sense of curiosity and creativity in kids.
  * **I'm a Polyglot.** At various times I have worked in: C, C++, Java, JavaScript, Dart, Python, and even Pascal.
- * **I'm a Community Builder.** I founded Google Developer Group chapters (NYC, Hudson Valley) & organized conferences (DevFestNYC, IWD NYC)
+ * **I'm a Community Builder.** I've founded tech meetups (NYC, Hudson Valley) & organized dev conferences (DevFestNYC, IWD NYC)
  * **I'm a Cloud Advocate.** On the Fusion Devs team in Microsoft Developer Relations. I want to empower mobile, web and citizen developers.
  * **I'm a Visual Storyteller.** It started as a self-care strategy and is now about creative communications. Let's #SketchTheDocs 
 
