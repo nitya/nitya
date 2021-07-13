@@ -1,24 +1,32 @@
-### Vanakkam! 👋🏽👩🏽‍💻🔥♥️
+### Welcome
 
-Hello! I'm Nitya. 
-"Vanakkam" is how you say Hello in Tamil, my mother tongue, and one of the ancient languages of India.
+* 👋🏽 I'm [Nitya Narasimhan](https://nitya.dev/about) 
+* 👩🏽‍🎓 I'm a [PhD, a Polyglot, and a Parent.](https://twitter.com/nitya)
+* 👩🏽‍💻 I'm a [Senior Cloud Advocate](https://developer.microsoft.com/en-us/advocates/) in Cloud+AI at Microsoft.
+* 🎨 I'm a [visual storyteller](https://sketchthedocs.dev) using illustrations to help learners. 
+* 💡 I'm an [innovator](https://patents.google.com/?inventor=Nitya+Narasimhan) with 10+ patents in mobile & ubiquitous computing.
+* 🎙 I'm a [tech speaker](https://speakerdeck.com/nitya), [content creator](https://dev.to/nitya), and [community builder](https://www.meetup.com/gdg-hudson-valley/members/11387669/profile/)
+* 🗽 I'm based in [Hudson Valley](https://travelhudsonvalley.com/), near New York City.
 
-I've been in tech for 20+ years focused on systems & software research, development and education.
+### Professional Mission Statement
 
- * **I'm a PhD in Computer Engineering.** My thesis focused on middleware for survivable distributed Java systems.
- * **I'm a Parent.** I believe in lifelong learning and instilling a sense of curiosity and creativity in kids.
- * **I'm a Polyglot.** At various times I have worked in: C, C++, Java, JavaScript, Dart, Python, and even Pascal.
- * **I'm a Community Builder.** I've founded tech meetups (NYC, Hudson Valley) & organized dev confs (DevFestNYC, IWD NYC)
- * **I'm a Cloud Advocate.** I joined the FusionDevs team in Microsoft Developer Relations to empower mobile, web and citizen devs.
- * **I'm a Visual Storyteller.** It started as a self-care strategy and is now about creative communications. Let's #SketchTheDocs 
+I want to:
+ * 🧞 make complex concepts understandable
+ * 👥 to diverse audiences
+ * 💖 in ways that drive actionable impact
+ * 🎯 on their software or professional development goals.
 
-**My mission statement:** 
-> I want to make _complex_ concepts understandable to _diverse_ audiences in ways that drive _actionable_ impact.
+### Personal Motto
 
-You can find me online:
- - [@nitya](https://www.twitter.com/nitya) on Twitter
- - [@nitya](https://dev.to/nitya) on dev.to
- - [#in/nityan](https://www.linkedin.com/in/nityan) on LinkedIn
+July is my birth month. It is also the mid-point of the year. So every year, I pick a phrase or keyword to serve as a guiding rule for a new habit or behavior I want to instill.
+ * July 2020: `Visualize IT!` - sketch the docs | improve understanding & recall.
+ * July 2021: `Cultivate Irreverence` - find the humor | build self-care & resilience.
+
+### Find Me Online
+
+ - Twitter | [@nitya](https://www.twitter.com/nitya)
+ - Dev.to | [@nitya](https://dev.to/nitya) 
+ - LinkedIn | [#in/nityan](https://www.linkedin.com/in/nityan) 
 
 
 <!--
