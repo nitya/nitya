@@ -20,7 +20,7 @@ I want to:
 
 July is my birth month. It is also the mid-point of the year. So every year, I pick a phrase or keyword to serve as a guiding rule for a new habit or behavior I want to instill.
  * July 2020: `Visualize IT!` - sketch the docs | improve understanding & recall.
- * July 2021: `Cultivate Irreverence` - find the humor | build self-care & resilience.
+ * July 2021: `Ship IT` - sprints not marathons | build #30Day plans and release meaningful artifacts
 
 ### Find Me Online
 
