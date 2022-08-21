@@ -16,12 +16,6 @@ I want to:
  * 💖 in ways that drive actionable impact
  * 🎯 on their software or professional development goals.
 
-### Personal Motto
-
-July is my birth month. It is also the mid-point of the year. So every year, I pick a phrase or keyword to serve as a guiding rule for a new habit or behavior I want to instill.
- * July 2020: `Visualize IT!` - sketch the docs | improve understanding & recall.
- * July 2021: `Ship IT` - sprints not marathons | build #30Day plans and release meaningful artifacts
-
 ### Find Me Online
 
  - Twitter | [@nitya](https://www.twitter.com/nitya)
