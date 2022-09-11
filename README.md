@@ -6,11 +6,7 @@
 * 🎨 I'm a [visual storyteller](https://sketchthedocs.dev) using illustrations to help learners. 
 * 💡 I'm an [innovator](https://patents.google.com/?inventor=Nitya+Narasimhan) with 10+ patents in mobile & ubiquitous computing.
 * 🎙 I'm a [tech speaker](https://speakerdeck.com/nitya), [content creator](https://dev.to/nitya), and [community builder](https://www.meetup.com/gdg-hudson-valley/members/11387669/profile/)
-* 🗽 I'm based in [Hudson Valley](https://travelhudsonvalley.com/), near New York City.
-
-### GitHub Activity
-
-![Nitya's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitya&show_icons=true&theme=radical&count_private=true)
+* 🗽 I'm based in [Hudson Valley](https://travelhudsonvalley.com/), near New York City
 
 
 ### Professional Mission Statement
@@ -42,3 +38,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### GitHub Activity
+
+![Nitya's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitya&show_icons=true&theme=radical&count_private=true)
