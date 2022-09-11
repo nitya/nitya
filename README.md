@@ -10,7 +10,7 @@
 
 ### GitHub Activity
 
-![Nitya's GitHub stats](https://github-readme-stats.vercel.app/api?username=nityaa&show_icons=true&theme=radical&count_private=true)
+![Nitya's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitya&show_icons=true&theme=radical&count_private=true)
 
 
 ### Professional Mission Statement
