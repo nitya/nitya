@@ -8,6 +8,11 @@
 * 🎙 I'm a [tech speaker](https://speakerdeck.com/nitya), [content creator](https://dev.to/nitya), and [community builder](https://www.meetup.com/gdg-hudson-valley/members/11387669/profile/)
 * 🗽 I'm based in [Hudson Valley](https://travelhudsonvalley.com/), near New York City.
 
+### GitHub Activity
+
+![Nitya's GitHub stats](https://github-readme-stats.vercel.app/api?username=nityaa&show_icons=true&theme=radical&count_private=true)
+
+
 ### Professional Mission Statement
 
 I want to:
