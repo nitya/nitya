@@ -11,11 +11,7 @@
 
 ### Professional Mission Statement
 
-I want to:
- * 🧞 make complex concepts understandable
- * 👥 to diverse audiences
- * 💖 in ways that drive actionable impact
- * 🎯 on their software or professional development goals.
+I want to: **Help. People. Learn.**
 
 ### Find Me Online
 
