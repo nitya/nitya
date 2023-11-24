@@ -44,8 +44,9 @@ In 2022, I've started doing more open-source work and hope to make this a fundam
     alt="Nitya Profile Views"/>
 > 
 
+> Generated with the [GitHub README Stats Generator](https://gh-stats-gen.vercel.app/)
 ![nitya's Stats](https://github-readme-stats.vercel.app/api?username=nitya&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
-![nitya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitya&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
+![nitya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nitya&theme=highcontrast&hide_border=false)
 
 <!--
 
