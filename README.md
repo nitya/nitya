@@ -41,7 +41,11 @@ In 2022, I've started doing more open-source work and hope to make this a fundam
 
 > Working on building a custom version for myself. Stay tuned!
 <img src="https://komarev.com/ghpvc/?username=nitya&label=Profile%20views&color=FF69B4&style=flat" 
-    alt="Nitya Profile Views"/> 
+    alt="Nitya Profile Views"/>
+> 
+
+![nitya's Stats](https://github-readme-stats.vercel.app/api?username=nitya&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+![nitya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nitya&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
 <!--
 
