@@ -17,7 +17,8 @@ I want to: **Help. People. Learn.**
 
  - Twitter | [@nitya](https://www.twitter.com/nitya) 
  - Dev.to | [@nitya](https://dev.to/nitya) 
- - LinkedIn | [#in/nityan](https://www.linkedin.com/in/nityan) 
+ - LinkedIn | [#in/nityan](https://www.linkedin.com/in/nityan)
+ - HuggingFace | [nityan](https://huggingface.co/nityan)
 
 
 <!--
