@@ -8,6 +8,9 @@
 * 🎙 I'm a [tech speaker](https://speakerdeck.com/nitya), [content creator](https://dev.to/nitya), and [community builder](https://www.meetup.com/gdg-hudson-valley/members/11387669/profile/)
 * 🗽 I'm based in [Hudson Valley](https://travelhudsonvalley.com/), near New York City
 
+### Speaker Bio
+Nitya is a PhD and Polyglot with 20+ years of software research & development experience spanning mobile, web, cloud and AI. She is also an innovator (12+ patents) and visual storyteller (@sketchthedocs) with a passion for helping developers translate emerging technologies into actionable solutions. Her current role focuses on empowering developers to do more with AI on Azure through content, code and collaborations with research and open-source communities.
+
 
 ### Professional Mission Statement
 
