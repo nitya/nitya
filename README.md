@@ -1,7 +1,7 @@
 ### Welcome 
 
 * 👋🏽 I'm [Nitya Narasimhan](https://nitya.dev/about) 
-* 👩🏽‍🎓 I'm a [PhD, a Polyglot, and a Parent.](https://twitter.com/nitya)
+* 👩🏽‍🎓 I'm a [PhD, a Polymath, and a Parent.](https://twitter.com/nitya)
 * 👩🏽‍💻 I'm a [Senior Cloud Advocate](https://developer.microsoft.com/en-us/advocates/) in Cloud+AI at Microsoft.
 * 🎨 I'm a [visual storyteller](https://sketchthedocs.dev) using illustrations to help learners. 
 * 💡 I'm an [innovator](https://patents.google.com/?inventor=Nitya+Narasimhan) with 10+ patents in mobile & ubiquitous computing.
