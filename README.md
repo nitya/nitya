@@ -1,6 +1,6 @@
 ### Build Your Model IQ
 
-Every AI Engineering journey starts with model choice!! But how do you keep up with the fast pace of model innovations and AI engineering terms and frameworks? I wanted to share things I learned about in a constructive that that would help others learn. Subscribe to my weekly newsletter - I will use the image to be transparent about the topics I cover each week so you know what to look for. **Let's Build Our Model IQ**!
+Every AI Engineering journey starts with model choice!! But how do you keep up with the fast pace of model innovations and AI engineering terms and frameworks? I wanted to share things I learned about in a constructive that that would help others learn. Subscribe to my weekly newsletter - I will use the image to be transparent about the topics I cover each week so you can decide if it's right for you!
 
 **[Subscribe To the Newsletter](https://aka.ms/model-mondays/newsletter)**
 
