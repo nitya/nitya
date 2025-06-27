@@ -2,12 +2,14 @@
 
 Every AI Engineering journey starts with model choice!! But how do you keep up with the fast pace of model innovations and AI engineering terms and frameworks? I wanted to share things I learned about in a constructive that that would help others learn. Subscribe to my weekly newsletter - I will use the image to be transparent about the topics I cover each week so you can decide if it's right for you!
 
-**[Subscribe To the Newsletter](https://aka.ms/model-mondays/newsletter)**
 
-**Click the image to read the latest issue!**
 
+| **[Subscribe To the Newsletter](https://aka.ms/model-mondays/newsletter)** · **Click image 👇🏽 to read the latest issue!** |
+|:---:|
 [![image](https://github.com/user-attachments/assets/ea51cd6d-0369-4bdf-9bfd-aa88f7d726a3)](https://www.linkedin.com/pulse/issue-02-reasoning-rethinking-research-nitya-narasimhan-phd-rmnne/?trackingId=UKbtItxOTLKXgZpHlt2hKg%3D%3D)
+| |
 
+---
 
 ### Welcome 
 
